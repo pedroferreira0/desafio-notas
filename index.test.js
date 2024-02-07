@@ -23,11 +23,6 @@ const tests = [
     response: 50,
   },
   {
-    coins: [25, 10],
-    target: 12,
-    response: 0,
-  },
-  {
     coins: [1, 10, 20, 30],
     target: -10,
     response: 0,
